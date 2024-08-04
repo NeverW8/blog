@@ -6,10 +6,9 @@ Give this guy a star if you like it. :)
 
 ## About my blog or something
 
-like all simple things, working on simple, lightweight, independence, portable solution.
+This is my personal blog, where I will post about my projects, thoughts, and other things that I find interesting.
 
-![](campo02.jpg)
 
 ### History
 
-* 2022/08/24: 0.60, initial release.
+* 2024/08/04: Created this blog
