@@ -27,12 +27,7 @@ h1 { border-bottom:1px dotted grey }
 <div id="md-post">
 # Featured
 
-## [first post](first-post.md)
-> date:2024/08/04, tags: `#markdown`
-> This is the first post of this blog.
-
-
-## [second post](posts/second-post.md)
+## [second post](posts/placeholder.md)
 > date:2024/08/04, tags: `#markdown`
 > something else
 
@@ -41,7 +36,8 @@ h1 { border-bottom:1px dotted grey }
 
 ### Aug 2024
 
-* 2024/08/04: [first post](first-post.md) { #markdown }
+* 2024/08/04: [second post](posts/placeholder.md) { #markdown }
 
 
 </div>
+
